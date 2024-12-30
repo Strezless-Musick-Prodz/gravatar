@@ -1,0 +1,13 @@
+name: gravatar
+id: ari:cloud:compass:1051b516-7af4-47f5-9157-912549a8adef:component/f21c7ce4-c402-48e4-8dd8-7e9eb713fe26/efb26ce6-1220-43b8-a9d4-45a3422da58d
+description: 'A gem for interfacing with the entire Gravatar API: not just images, but the XML-RPC API too!'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
